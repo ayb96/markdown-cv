@@ -2,6 +2,8 @@
 
 ## **Telecommunication Engineer**
 
+![](picture.jpg)
+
 ```
 Email: Hussein-ayoub-96@hotmail.com
 
