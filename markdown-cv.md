@@ -13,6 +13,11 @@ Beirut, Hadath
 LinkedIn Account: https://www.linkedin.com/in/hussein-ayoub-2b6333189
 
 ```
+>Skills:
+>
+>Simulation (Atoll, HFSS, Math Lab, LabVIEW), Programming (C++, HTML5, CSS, JavaScript, Notepad++, Assembly Language), Networking (Cisco packet tracer), Soft skill (leadership, emotional intelligence, interpersonal strengths, organizational, creative, behavior traits, communication styles)
+
+
 
 
 ### **EDUCATION**
