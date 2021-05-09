@@ -2,7 +2,17 @@
 
 ## **Telecommunication Engineer**
 
+```
+Email: Hussein-ayoub-96@hotmail.com
 
+Phone Number: +961-71-313853
+
+Place: Nadeem Choueiri Street
+Beirut, Hadath
+ 
+LinkedIn Account: https://www.linkedin.com/in/hussein-ayoub-2b6333189
+
+```
 
 
 ### **EDUCATION**
